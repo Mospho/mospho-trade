@@ -18,7 +18,7 @@ This repository holds selected parts of the production code. The full applicatio
 | `lib/mospho/orders.ts` | Sealed checkout. The result is prepared and encrypted with AES-GCM under a random receipt key that never leaves the visitor's browser. Only the key's hash goes on chain. The result is released after the payer's receipt has two confirmations. |
 | `lib/mospho/chain.ts` | Robinhood Chain client, contract ABI and fixed terms. |
 | `lib/visual/bot3d.ts` | The Mospho companion: a live three.js character with pointer-tracking eyes, blinking and talk animation. |
-| `config/` | Public network endpoints and the verified deployment record. |
+| `config/` | Public network endpoints and the fixed request price. |
 
 ## Request flow
 
@@ -32,7 +32,6 @@ This repository holds selected parts of the production code. The full applicatio
 | | |
 | --- | --- |
 | Network | Robinhood Chain mainnet, chain ID 4663 |
-| Contract | [`0x91a246e30FC90980BFA47b7Eb0eCaE173009B827`](https://robinhoodchain.blockscout.com/address/0x91a246e30FC90980BFA47b7Eb0eCaE173009B827) |
 | Price | 0.00001 ETH per request, plus gas |
 | $MOSPHO CA | Not yet launched |
 | X | [@TryMospho](https://x.com/TryMospho) |

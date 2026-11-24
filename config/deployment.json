@@ -1,8 +1,6 @@
 {
   "chainId": 4663,
-  "address": "0x91a246e30FC90980BFA47b7Eb0eCaE173009B827",
-  "transaction": "0x977bd137a914597cd87c8b1006b35d5a94cdabc90c2c25fb788db09cacbd545a",
-  "treasury": "0xc3c8567CD98292DfB6a680F24D52aF7777f32427",
-  "unitPriceWei": "10000000000000",
-  "blockNumber": "121951968"
+  "address": null,
+  "transaction": null,
+  "unitPriceWei": "10000000000000"
 }
