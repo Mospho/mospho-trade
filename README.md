@@ -2,6 +2,8 @@
 
 Official source excerpts for [mospho.trade](https://mospho.trade), a pay-per-request research terminal on Robinhood Chain.
 
+**X:** [@TryMospho](https://x.com/TryMospho) · **$MOSPHO CA:** not yet launched
+
 Paste a source (notes, an article, a transcript, English or Chinese). Pick a task: **Summary**, **Text Q&A** or **Keywords**. Pay once from your own wallet. Every finding cites the sentence it came from.
 
 This repository holds selected parts of the production code. The full application, its deployment tooling and infrastructure are kept private.
@@ -32,7 +34,8 @@ This repository holds selected parts of the production code. The full applicatio
 | Network | Robinhood Chain mainnet, chain ID 4663 |
 | Contract | [`0x91a246e30FC90980BFA47b7Eb0eCaE173009B827`](https://robinhoodchain.blockscout.com/address/0x91a246e30FC90980BFA47b7Eb0eCaE173009B827) |
 | Price | 0.00001 ETH per request, plus gas |
-| MOSPHO | Not launched |
+| $MOSPHO CA | Not yet launched |
+| X | [@TryMospho](https://x.com/TryMospho) |
 
 ## Links
 
