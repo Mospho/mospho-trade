@@ -2,7 +2,7 @@
 
 Official source excerpts for [mospho.trade](https://mospho.trade), a pay-per-request research terminal on Robinhood Chain.
 
-**X:** [@TryMospho](https://x.com/TryMospho) · **$MOSPHO CA:** not yet launched
+**X:** [@TryMospho](https://x.com/TryMospho) · **$MOSPHO CA:** `0x3519019b871f9a3f84126c17db146336f9061dd2` · [Buy on Pons](https://ponsfamily.com/launchpad/0x3519019b871f9a3f84126c17db146336f9061dd2)
 
 Paste a source (notes, an article, a transcript, English or Chinese). Pick a task: **Summary**, **Text Q&A** or **Keywords**. Pay once from your own wallet. Every finding cites the sentence it came from.
 
@@ -33,7 +33,8 @@ This repository holds selected parts of the production code. The full applicatio
 | --- | --- |
 | Network | Robinhood Chain mainnet, chain ID 4663 |
 | Price | 0.00001 ETH per request, plus gas |
-| $MOSPHO CA | Not yet launched |
+| $MOSPHO CA | `0x3519019b871f9a3f84126c17db146336f9061dd2` |
+| Buy | [Pons](https://ponsfamily.com/launchpad/0x3519019b871f9a3f84126c17db146336f9061dd2) |
 | X | [@TryMospho](https://x.com/TryMospho) |
 
 ## Links
