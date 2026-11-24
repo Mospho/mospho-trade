@@ -1,0 +1,10 @@
+{
+  "en": {
+    "source": "On Monday, the Mospho research team reviewed three interface prototypes. People finished the task fastest when they could see the price per request before opening their wallet. In the second prototype, four of the five participants missed the network fee because they had to scroll to see the gas label. For the next test, the team will place the inference price and the estimated gas fee directly above the pay button. Participants will also receive a link to their transaction receipt so they can reopen their research results.",
+    "question": "Where will the team show the estimated gas fee in the next test?"
+  },
+  "zh": {
+    "source": "周一，Mospho 研究团队评估了三款界面原型。用户在打开钱包前就能看到每次请求的价格时，完成任务的速度最快。在第二款原型中，五名参与者中有四人忽略了网络费用，因为他们需要向下滚动才能看到 Gas 费标签。在下一轮测试中，团队会把推理价格和预估 Gas 费放在付款按钮正上方。参与者还会收到交易凭据链接，方便再次查看研究结果。",
+    "question": "在下一轮测试中，团队会把预估 Gas 费放在哪里？"
+  }
+}

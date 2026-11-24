@@ -1,0 +1,12 @@
+{
+  "4663": {
+    "name": "Robinhood Chain",
+    "rpcs": ["https://rpc.mainnet.chain.robinhood.com", "https://4663.rpc.thirdweb.com", "https://api.blockvectra.com/v1/robinhood_mainnet/public"],
+    "explorer": "https://robinhoodchain.blockscout.com"
+  },
+  "46630": {
+    "name": "Robinhood Chain Testnet",
+    "rpcs": ["https://rpc.testnet.chain.robinhood.com", "https://46630.rpc.thirdweb.com", "https://api.blockvectra.com/v1/robinhood_testnet/public"],
+    "explorer": "https://explorer.testnet.chain.robinhood.com"
+  }
+}
